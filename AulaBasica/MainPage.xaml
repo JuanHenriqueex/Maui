@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<TabbedPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            x:Class="AulaBasica.MainPage"
+             >
+
+    <ContentPage
+        Title="Main"
+        IconImageSource="donet_bot"
+        >
+        <ScrollView>
+
+            <VerticalStackLayout Margin="20">
+
+                <Label 
+                    Text="Este é meu primeiro app!" 
+                    FontSize="Header"
+                    HorizontalOptions="Center"
+                    Padding="10"/>
+
+                <Button 
+                    x:Name="BTNOla"
+                    Text="Olá!"
+                    HorizontalOptions="Center"
+                    Clicked="BTNOla_Clicked"/>
+
+            </VerticalStackLayout>
+
+        </ScrollView>
+
+     </ContentPage>
+    
+
+    <ContentPage
+        Title="Grid">
+
+        <ScrollView>
+
+            <VerticalStackLayout Margin="20">
+
+                <Label 
+                    Text="Página de Grid" 
+                    FontSize="Header"
+                    HorizontalOptions="Center"
+                    Padding="10"/>
+
+            </VerticalStackLayout>
+
+        </ScrollView>
+
+    </ContentPage>
+    
+
+    <ContentPage
+        Title="Navegation">
+
+        <ScrollView>
+
+            <VerticalStackLayout Margin="20">
+
+                <Label 
+                    Text="Página de Navegação" 
+                    FontSize="Header"
+                    HorizontalOptions="Center"
+                    Padding="10"/>
+
+            </VerticalStackLayout>
+
+        </ScrollView>
+
+    </ContentPage>
+
+</TabbedPage>
+    
