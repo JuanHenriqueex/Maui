@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CORE\\Desktop\\Maui\\AulaBasica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E983F41-3468-467F-B098-80D2B1D0AEE4}|AulaBasica\\AulaBasica.csproj|c:\\users\\core\\desktop\\maui\\aulabasica\\aulabasica\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0E983F41-3468-467F-B098-80D2B1D0AEE4}|AulaBasica\\AulaBasica.csproj|solutionrelative:aulabasica\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E983F41-3468-467F-B098-80D2B1D0AEE4}|AulaBasica\\AulaBasica.csproj|c:\\users\\core\\desktop\\maui\\aulabasica\\aulabasica\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E983F41-3468-467F-B098-80D2B1D0AEE4}|AulaBasica\\AulaBasica.csproj|solutionrelative:aulabasica\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E983F41-3468-467F-B098-80D2B1D0AEE4}|AulaBasica\\AulaBasica.csproj|c:\\users\\core\\desktop\\maui\\aulabasica\\aulabasica\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E983F41-3468-467F-B098-80D2B1D0AEE4}|AulaBasica\\AulaBasica.csproj|solutionrelative:aulabasica\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\CORE\\Desktop\\Maui\\AulaBasica\\AulaBasica\\App.xaml.cs",
+              "RelativeDocumentMoniker": "AulaBasica\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\CORE\\Desktop\\Maui\\AulaBasica\\AulaBasica\\App.xaml.cs",
+              "RelativeToolTip": "AulaBasica\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:16:07.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\CORE\\Desktop\\Maui\\AulaBasica\\AulaBasica\\MainPage.xaml",
+              "RelativeDocumentMoniker": "AulaBasica\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\CORE\\Desktop\\Maui\\AulaBasica\\AulaBasica\\MainPage.xaml",
+              "RelativeToolTip": "AulaBasica\\MainPage.xaml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-10T12:54:08.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\CORE\\Desktop\\Maui\\AulaBasica\\AulaBasica\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "AulaBasica\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\CORE\\Desktop\\Maui\\AulaBasica\\AulaBasica\\MainPage.xaml.cs",
+              "RelativeToolTip": "AulaBasica\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T12:41:29.003Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

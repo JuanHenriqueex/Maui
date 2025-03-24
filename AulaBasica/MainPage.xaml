@@ -32,20 +32,22 @@
         </ScrollView>
 
      </ContentPage>
-    
+
 
     <ContentPage
-        Title="Grid">
+        Title="Video">
 
         <ScrollView>
 
             <VerticalStackLayout Margin="20">
 
-                <Label 
-                    Text="Página de Grid" 
-                    FontSize="Header"
+                <WebView
+                    x:Name="WVVideo"
                     HorizontalOptions="Center"
-                    Padding="10"/>
+                    VerticalOptions="Center"
+                    Scale="0.75"
+                    WidthRequest="500"
+                    HeightRequest="280"/>
 
             </VerticalStackLayout>
 
