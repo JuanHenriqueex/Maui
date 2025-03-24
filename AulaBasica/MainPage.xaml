@@ -3,7 +3,9 @@
 <TabbedPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
             x:Class="AulaBasica.MainPage"
-             >
+            UnselectedTabColor="LightGray"
+            SelectedTabColor="Purple"
+            >
 
     <ContentPage
         Title="Main"
@@ -69,6 +71,25 @@
 
         </ScrollView>
 
+    </ContentPage>
+
+    <ContentPage
+        Title="Ligações">
+        
+        <ScrollView>
+
+            <VerticalStackLayout>
+
+                <Label
+                Text="Histórico de ligações" 
+                FontSize="Header"
+                HorizontalOptions="Center"
+                Padding="10"/>
+
+            </VerticalStackLayout>     
+            
+        </ScrollView>
+        
     </ContentPage>
 
 </TabbedPage>
